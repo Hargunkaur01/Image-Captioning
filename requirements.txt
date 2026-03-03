@@ -1,0 +1,5 @@
+Torch
+Torchvision
+Transformers
+Streamlit
+Pillow
