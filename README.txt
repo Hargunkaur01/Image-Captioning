@@ -10,4 +10,4 @@ Developed using:
 - Streamlit
 
 Live Demo:
-https://image-captioning-p2qw7ukqcqvwrql7dvjnpe.streamlit.app/
+https://image-captioning-hargunkaur01.streamlit.app/
